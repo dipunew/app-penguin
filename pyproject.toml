@@ -1,0 +1,11 @@
+[project]
+name = "my-py-shiny-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "palmerpenguins>=0.1.4",
+    "plotnine>=0.15.1",
+    "shiny>=1.5.0",
+]
